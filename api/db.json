@@ -1,0 +1,14 @@
+{
+  "streams": [
+        {
+      "title": "My Streams",
+      "description": "My description",
+      "id": 1
+    },
+    {
+      "title": "Me streaming component RUSE",
+      "description": "Watch me refactor some COMPONENTS",
+      "id": 2
+    }
+  ]
+}
